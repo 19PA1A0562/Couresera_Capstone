@@ -1,2 +1,1 @@
-# Couresera_Capstone
-This is made for Coursera Capstone project
+# Coursera_Capstone
